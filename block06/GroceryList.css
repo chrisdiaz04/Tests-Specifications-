@@ -54,7 +54,6 @@ h1 {
 
 .photo-container {
     width: 25%;
-    object-fit: fill;
     padding: 10px;
 }
 
